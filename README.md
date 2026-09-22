@@ -9,10 +9,6 @@ RM 563054 – PEDRO HENRIQUE OLIVEIRA MARQUES
 RM 563419 – PEDRO MIRABELLA TONARQUE
 
 
-**Repositório GitHub:** `<link do repositório aqui>`
-
-**Vídeo demonstrativo:** `<link do vídeo aqui>`
-
 ---
 
 ## O que o app resolve
